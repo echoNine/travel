@@ -1,0 +1,94 @@
+{
+  "ret": true,
+  "data": {
+    "city": "杭州",
+    "swiperList": [{
+      "id": "0001",
+      "imgUrl": "//mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/a685001bbf5e77a203ff8815e953efbe.jpg"
+    }, {
+      "id": "0002",
+      "imgUrl": "//mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20198/d75097876425de8365684f0693b37fd3.jpg"
+    }, {
+      "id": "0003",
+      "imgUrl": "//mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20198/b59b8db9f72eb8f54df5bf2155672e9c.jpg"
+    }],
+    "iconList": [{
+      "id": "0001",
+      "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+      "desc": "酒店"
+    }, {
+      "id": "0002",
+      "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/flight.png",
+      "desc": "机票"
+    }, {
+      "id": "0003",
+      "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png",
+      "desc": "度假"
+    }, {
+      "id": "0004",
+      "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/train.png",
+      "desc": "火车票"
+    }, {
+      "id": "0005",
+      "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/piao.png",
+      "desc": "景点门票"
+    }, {
+      "id": "0006",
+      "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/group.png",
+      "desc": "特惠酒店"
+    }, {
+      "id": "0007",
+      "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/bargainflight.png",
+      "desc": "低价机票"
+    }, {
+      "id": "0008",
+      "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/inn.png",
+      "desc": "客栈"
+    }, {
+      "id": "0009",
+      "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/haiwai.png",
+      "desc": "海外酒店"
+    }, {
+      "id": "0010",
+      "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/kezhan.png",
+      "desc": "民宿"
+    }],
+    "recommendList": [{
+      "id": "0001",
+      "imgUrl": "//imgs.qunarzz.com/sight/p0/1508/89/895a1b7add84f23faca053ce9e3153db.water.jpg_256x144_c04e71f2.jpg",
+      "title": "北京欢乐谷",
+      "desc": "七大主题园区带你畅享北京欢乐谷"
+    }, {
+      "id": "0002",
+      "imgUrl": "//imgs.qunarzz.com/p/tts9/1908/e5/ae14cb05c5d23a02.png_256x144_70694ecd.png",
+      "title": "八达岭长城",
+      "desc": "[北京]【长城专线】9-10-12点晚出发懒北京八达岭长城+直通车"
+    }, {
+      "id": "0003",
+      "imgUrl": "//imgs.qunarzz.com/vs_ceph_vs_tts/fb5fbf5c-4f85-482b-91d6-4ce17a42618d.jpg_r_390x260x90_aae85edf.jpg",
+      "title": "北京-海南 6天跟团游",
+      "desc": "中秋国庆付100抵300🔥住1线海景房玩双岛|蜈支洲+分界洲+天涯三亚6日"
+    }, {
+      "id": "0004",
+      "imgUrl": "//imgs.qunarzz.com/sight/p0/1809/9f/9f1a73fa9754fdeaa3.img.jpg_256x144_73f3cbb6.jpg",
+      "title": "南宫民族温泉养生园",
+      "desc": "地热资源丰富，温泉纯正，体验绝佳"
+    }, {
+      "id": "0005",
+      "imgUrl": "//imgs.qunarzz.com/vs_ceph_vs_tts/32014fe7-4918-4bdc-b361-ce6ffb9bc5bb.jpg_r_480x320x90_bf60e27b.jpg",
+      "title": "北京-广州 3天自由行",
+      "desc": "中秋国庆大促 畅玩长隆欢乐世界+赏马戏团表演+维也纳酒店+接送机 广州3天游"
+    }],
+    "hottestSpotList": [{
+      "id": "0001",
+      "imgUrl": "//img1.qunarzz.com/sight/p0/1909/11/11482fe19c41b2efa3.water.jpg_256x160_2a317c55.jpg",
+      "title": "南浔古镇",
+      "desc": "水乡古镇九十九，不如南浔走一走"
+    }, {
+      "id": "0002",
+      "imgUrl": "//img1.qunarzz.com/sight/p0/201405/27/8211cadd5d9fefeaa044c5b7eefc695d.jpg_256x160_5d730aee.jpg",
+      "title": "千岛湖",
+      "desc": "亲近大自然，放飞心情"
+    }]
+  }
+}
