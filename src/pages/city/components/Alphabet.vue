@@ -20,7 +20,7 @@ export default {
   },
   data () {
     return {
-      touchStauts: false,
+      touchStatus: false,
       startY: 0,
       timer: null
     }
@@ -42,10 +42,10 @@ export default {
       this.$emit('change', e.target.innerText)
     },
     handleTouchStart () {
-      this.touchStauts = true
+      this.touchStatus = true
     },
     handleTouchMove (e) {
-      if (this.touchStauts) {
+      if (this.touchStatus) {
         if (this.timer) {
           clearTimeout(this.timer)
         }
@@ -55,11 +55,11 @@ export default {
           if (index >= 0 && index < this.letters.length) {
             this.$emit('change', this.letters[index])
           }
-        })
+        }, 16)
       }
     },
     handleTouchEnd () {
-      this.touchStauts = false
+      this.touchStatus = false
     }
   }
 }
