@@ -35,7 +35,7 @@ export default {
   .item-img-wrapper
     height 0
     overflow hidden
-    padding-bottom 62.5%
+    padding-bottom 38.5%
     .item-img
       width 100%
   .item-info
